@@ -1,2 +1,10 @@
-# game_v2
-new try to get Git
+# Основной заголовок
+
+## Подзаголовки
+
+* [Проект 1: Игра "Угадай число"](https://github.com/Keola0412/game_v2/blob/main/game_v2.py)
+* [Проект 2: Заготовка на будущее]()
+* [Проект 3: И т.д.]()
+
+
+### new try to get Git
